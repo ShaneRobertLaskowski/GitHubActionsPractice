@@ -16,5 +16,5 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-      - run: ./GithubActionsTestProject/bin/Debug/net6.0/GithubActionsTestProject.exe
+      - run: ./GithubActionsTestProject/bin/Debug/net6.0/GithubActionsTestProject.dll
       
