@@ -1,0 +1,15 @@
+C:\Users\zaggn\source\repos\GitHubActionsPractice\GithubActionsTestProject\bin\Debug\net6.0\GithubActionsTestProject.exe
+C:\Users\zaggn\source\repos\GitHubActionsPractice\GithubActionsTestProject\bin\Debug\net6.0\GithubActionsTestProject.deps.json
+C:\Users\zaggn\source\repos\GitHubActionsPractice\GithubActionsTestProject\bin\Debug\net6.0\GithubActionsTestProject.runtimeconfig.json
+C:\Users\zaggn\source\repos\GitHubActionsPractice\GithubActionsTestProject\bin\Debug\net6.0\GithubActionsTestProject.dll
+C:\Users\zaggn\source\repos\GitHubActionsPractice\GithubActionsTestProject\bin\Debug\net6.0\GithubActionsTestProject.pdb
+C:\Users\zaggn\source\repos\GitHubActionsPractice\GithubActionsTestProject\obj\Debug\net6.0\GithubActionsTestProject.csproj.AssemblyReference.cache
+C:\Users\zaggn\source\repos\GitHubActionsPractice\GithubActionsTestProject\obj\Debug\net6.0\GithubActionsTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaggn\source\repos\GitHubActionsPractice\GithubActionsTestProject\obj\Debug\net6.0\GithubActionsTestProject.AssemblyInfoInputs.cache
+C:\Users\zaggn\source\repos\GitHubActionsPractice\GithubActionsTestProject\obj\Debug\net6.0\GithubActionsTestProject.AssemblyInfo.cs
+C:\Users\zaggn\source\repos\GitHubActionsPractice\GithubActionsTestProject\obj\Debug\net6.0\GithubActionsTestProject.csproj.CoreCompileInputs.cache
+C:\Users\zaggn\source\repos\GitHubActionsPractice\GithubActionsTestProject\obj\Debug\net6.0\GithubActionsTestProject.dll
+C:\Users\zaggn\source\repos\GitHubActionsPractice\GithubActionsTestProject\obj\Debug\net6.0\refint\GithubActionsTestProject.dll
+C:\Users\zaggn\source\repos\GitHubActionsPractice\GithubActionsTestProject\obj\Debug\net6.0\GithubActionsTestProject.pdb
+C:\Users\zaggn\source\repos\GitHubActionsPractice\GithubActionsTestProject\obj\Debug\net6.0\GithubActionsTestProject.genruntimeconfig.cache
+C:\Users\zaggn\source\repos\GitHubActionsPractice\GithubActionsTestProject\obj\Debug\net6.0\ref\GithubActionsTestProject.dll
